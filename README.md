@@ -1,4 +1,3 @@
-#Thananjeyan -
 import java.util.Scanner;
 
 public class SimpleCalculation {
